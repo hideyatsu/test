@@ -1,0 +1,14 @@
+{
+    "name": "hideyatsu/test",
+    "type": "library",
+    "description": "This is just a test package.",
+    "keywords": ["test"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hideyatsu",
+            "email": "hideyatsuapp@gmail.com"
+        }
+    ],
+    "require": {}
+}
